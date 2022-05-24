@@ -6,6 +6,31 @@
             "targetspm": "./models/en-ukr/target.spm",
             "host": "localhost",
             "port": "10002"
+        },
+        "rus": {
+            "configuration": "./models/en-rus/decoder.yml",
+            "sourcespm": "./models/en-rus/source.spm",
+            "targetspm": "./models/en-rus/target.spm",
+            "host": "localhost",
+            "port": "10003"
+        }
+    },
+    "ukr": {
+        "en": {
+            "configuration": "./models/ukr-en/decoder.yml",
+            "sourcespm": "./models/ukr-en/source.spm",
+            "targetspm": "./models/ukr-en/target.spm",
+            "host": "localhost",
+            "port": "10004"
+        }
+    },
+    "rus": {
+        "en": {
+            "configuration": "./models/rus-en/decoder.yml",
+            "sourcespm": "./models/rus-en/source.spm",
+            "targetspm": "./models/rus-en/target.spm",
+            "host": "localhost",
+            "port": "10005"
         }
     }
 }
