@@ -1,0 +1,11 @@
+{
+    "en": {
+        "ukr": {
+            "configuration": "./models/en-ukr/decoder.yml",
+            "sourcespm": "./models/en-ukr/source.spm",
+            "targetspm": "./models/en-ukr/target.spm",
+            "host": "localhost",
+            "port": "10002"
+        }
+    }
+}

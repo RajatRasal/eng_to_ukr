@@ -1,0 +1,21 @@
+# eng-ukr training data bigger than 10000000
+GPUJOB_HPC_MEM = 16g
+GPUJOB_SUBMIT  = -gpu01
+SUBWORD_VOCAB_SIZE    = 32000
+DEVSIZE    = 5000
+TESTSIZE   = 10000
+DEVMINSIZE = 200
+SRCLANGS    = eng
+TRGLANGS    = ukr
+SKIPLANGS   = 
+LANGPAIRSTR = eng-ukr
+DATASET     = opusTCv20210807+nopar+ft95
+TRAINSET    = 
+DEVSET      = Tatoeba-dev-v2021-08-07
+TESTSET     = Tatoeba-test-v2021-08-07
+PRE         = simple
+SUBWORDS    = spm
+SHUFFLE_DATA      = 0
+MAX_OVER_SAMPLING = 50
+USE_REST_DEVDATA  = 0
+USE_SPM_VOCAB = 1
