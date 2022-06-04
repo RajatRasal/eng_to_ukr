@@ -1,4 +1,4 @@
-# English to East-Slavic translations
+# Translation Service from English to East-Slavic and Russian, and back.
 
 ### Setup instructions
 This assumes you have Docker installed.
