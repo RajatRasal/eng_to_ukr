@@ -19,9 +19,9 @@ You would expect the following SHA256 checksum: `bf963b5221803a011411258fb63abd1
 ### Getting started
 Entire the source text on the left and visualise the translations on the right.
 
-<img width="872" alt="Screenshot 2022-06-04 at 14 43 12" src="https://user-images.githubusercontent.com/20817781/172003388-622b1d28-f7b4-4f82-8efb-670c0402dd07.png">
+<img width="869" alt="Screenshot 2022-06-04 at 14 46 17" src="https://user-images.githubusercontent.com/20817781/172003519-3822d5db-5b2a-4148-81dc-3e95126efd6f.png">
 
 Empty lines cannot be translated, and no result will be returned.
 
-<img width="877" alt="image" src="https://user-images.githubusercontent.com/20817781/172003437-8653d24e-f9fc-48d4-9fb7-c9a488a7e3ac.png">
+<img width="877" alt="Screenshot 2022-06-04 at 14 46 52" src="https://user-images.githubusercontent.com/20817781/172003527-ef64bb1f-983d-45d0-a70e-b683516c0bef.png">
 
